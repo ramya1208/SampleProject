@@ -12,6 +12,8 @@ public class GIT {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
+		a=20;
+		System.out.println(a);
 				
 	}
 
